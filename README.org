@@ -1,0 +1,17 @@
+* GNU Guile Prime Logo
+  A logo for GNU Guile Prime project.  The logo represents a lambda,
+  GNU Guile and everything else inside the Universal REPL.
+
+** Used materials
+   - GNU Guile Logo <https://www.gnu.org/software/guile/graphics/>
+
+** License
+   Copyright © 2015 Artyom V. Poptsov <poptsov.artyom@gmail.com>
+
+   Guile Prime logo is available under the terms of the following
+   licenses, at your option:
+
+   - the GNU General Public License (version 3 and later)
+     <https://www.gnu.org/licenses/gpl.html>
+   - the GNU Free Documentation License (version 1.2 and later)
+     <https://www.gnu.org/licenses/fdl.html>
